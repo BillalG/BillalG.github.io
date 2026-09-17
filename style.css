@@ -3,10 +3,11 @@ html, body {
     margin: 0;
 }
 
-p {
+.milieu_de_page {
     display: flex;
     justify-content: center;
     align-items: center; 
     height: 100vh;           
     text-align: center;     
+    font-size: 100px;
 }
