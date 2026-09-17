@@ -11,3 +11,23 @@ html, body {
     text-align: center;     
     font-size: 100px;
 }
+
+
+.navbar {
+  display: flex;
+  gap: 2rem;
+  padding: 12px 32px;
+  position: sticky; top: 12px;
+  background-color: #eb8108;
+  border-radius: 100px;
+  width: fit-content;
+  margin: 20px auto;
+}
+
+
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size : 24px;
+}
